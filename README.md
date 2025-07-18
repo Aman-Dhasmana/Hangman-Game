@@ -99,14 +99,6 @@ gemini.api.key=your-gemini-api-key
 
 ---
 
-## **Screenshots**
-_(Add screenshots here)_  
-- Start Screen  
-- Game Board  
-- Game End Screen  
-
----
-
 ## **Author**
 **Aman Dhasmana**  
 B.Tech CSE (2025)  
