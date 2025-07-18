@@ -1,0 +1,22 @@
+# --- FRONTEND (React + Vite + Tailwind) ---
+frontend/node_modules/
+frontend/dist/
+frontend/.vite/
+frontend/npm-debug.log*
+frontend/yarn-error.log
+frontend/package-lock.json
+frontend/.env
+
+# --- BACKEND (Spring Boot) ---
+backend/target/
+backend/.idea/
+backend/.settings/
+backend/.classpath
+backend/.project
+backend/*.iml
+backend/*.log
+
+# --- COMMON ---
+*.log
+.DS_Store
+Thumbs.db
