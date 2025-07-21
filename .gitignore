@@ -1,0 +1,26 @@
+# --- FRONTEND (React + Vite + Tailwind) ---
+hangman-frontend/node_modules/
+hangman-frontend/dist/
+hangman-frontend/.vite/
+hangman-frontend/npm-debug.log*
+hangman-frontend/yarn-error.log
+hangman-frontend/.env
+
+# --- BACKEND (Spring Boot) ---
+hangman-backend/target/
+hangman-backend/.idea/
+hangman-backend/.settings/
+hangman-backend/.classpath
+hangman-backend/.project
+hangman-backend/*.iml
+hangman-backend/*.log
+hangman-backend/src/main/resources/application.properties
+
+# --- COMMON ---
+*.log
+.DS_Store
+Thumbs.db
+
+# Ignore IDE folders
+.vscode/
+.idea/
